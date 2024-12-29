@@ -1,0 +1,23 @@
+.app-footer {
+  background-color: #222;
+  color: #ccc;
+  padding: 1rem 0;
+  text-align: center;
+  position: relative;
+}
+
+.app-footer a {
+  color: #ccc;
+  text-decoration: none;
+}
+
+.app-footer a:hover {
+  text-decoration: underline;
+}
+
+
+
+.app-content
+{
+    flex: 1;
+}
